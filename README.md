@@ -10,7 +10,3 @@
 2. listing text files in the hidden directory
 3. incerting data in selected text file
 4. reading random line in random text file
-
-`Feel free to help me for updating.`
-
-Thank you!
